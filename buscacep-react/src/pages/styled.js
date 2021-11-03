@@ -11,3 +11,10 @@ export const MainDiv = styled.div`
   border-radius: 15px;
   border: 1px solid yellow;
 `;
+
+export const Search = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+`;
